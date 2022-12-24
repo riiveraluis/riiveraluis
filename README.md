@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Luis Rivera Rivera</h1>
-<h3 align="center">Aspiring iOS Developer</h3>
+<h3 align="center">Aspiring iOS Developer & Computer Engineering Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riiveraluis&label=Profile%20views&color=0e75b6&style=flat" alt="riiveraluis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riiveraluis" alt="riiveraluis" /></a> </p>
 
-- 🔭 I’m currently working on **Capstone Project - Posture Check**
+- iOS Devloper of Posture Check App (https://apple.co/3ClVDbN)
+- 🔭 I’m currently working on **Credit Helper iOS App**
 
 - 🌱 I’m currently learning **SwiftUI & UIKit**
 
