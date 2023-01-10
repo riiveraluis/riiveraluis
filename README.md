@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riiveraluis" alt="riiveraluis" /></a> </p>
 
-- iOS Devloper of Posture Check App (https://apple.co/3ClVDbN)
+- iOS Developer of Posture Check App (https://apple.co/3ClVDbN)
 - 🔭 I’m currently working on **Credit Helper iOS App**
 
 - 🌱 I’m currently learning **SwiftUI & UIKit**
