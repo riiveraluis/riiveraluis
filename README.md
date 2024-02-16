@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Hi there! 👋 I'm Luis Rivera Rivera</h1>
   <h3>Software Developer I | Computer Engineering Graduate</h3>
 
