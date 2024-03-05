@@ -3,7 +3,7 @@
   <h3>Software Developer I | Computer Engineering Graduate</h3>
 
   <p> 
-    <img src="https://komarev.com/ghpvc/?username=riiveraluis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=riiveraluis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   </p>
 
   <p>
